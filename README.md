@@ -29,7 +29,7 @@ This is the first task completed as part of my **SkillCraft Web Development Inte
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 
 
